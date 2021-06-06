@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @exclu1221
+- 👋 Hi, I’m Courtney Carter
 - 👀 I'm interested in data scienceand analytics and ML
 - 🌱 I'm currently learning linux, and python libraries: pandas, numpy, matplotlib, and scipy. I'm also working my way through CS50.
 - 💞️ I’m looking to collaborate on data science projects at a beginner level.
